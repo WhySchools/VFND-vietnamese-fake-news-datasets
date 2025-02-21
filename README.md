@@ -51,6 +51,9 @@ Fake_Real_Dataset
 └───Real
     └───Article_Contents
     └───Social_Contents
+└───Misleading
+    └───Article_Contents
+    └───Social_Contents
 ```
 
 ### 2.3. [_Tools_](Tools): 

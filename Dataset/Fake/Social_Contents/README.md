@@ -9,3 +9,5 @@ VFDN_So_Fake_8 - 10: Bài viết đưa ra thông tin giả về cái chết củ
 VFDN_So_Fake_11: Tin giả đưa ra các đồn đoán vô căn cứ về sự kiện "Cựu thủ tướng Nhật bị ám sát"
 
 VFDN_So_Fake_12: Thông tin giả về một công ty đồng hồ không có thật, hình ảnh lấy của sự kiện chìm tàu Kazu 1 tại Hokkaido, nguồn tham khảo: [Vụ chìm tàu du lịch Nhật Bản: Dần hé lộ những sai phạm nghiêm trọng](https://www.baogiaothong.vn/vu-chim-tau-du-lich-nhat-ban-dan-he-lo-nhung-sai-pham-nghiem-trong-192550632.htm), nguồn ảnh: [Ảnh người đàn ông quỳ](https://www.shinmai.co.jp/news/article/CNTS2022042701046)
+
+VFDN_So_Fake_13: Thông tin giả như VFDN_So_Fake_12
